@@ -2,6 +2,6 @@
 
 #### This is sample code for learning GAE with Flask.
 
-#### page
-
-1. [Hello Page](http://bc-gae-flask.appspot.com)
+#### 1. Page
+- **[Init](http://bc-gae-flask.appspot.com)**
+- **[Hello](http://bc-gae-flask.appspot.com/hello)**
